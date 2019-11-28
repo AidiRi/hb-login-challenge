@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hb-login-challenge/static/css/main.1b1e9882.chunk.css",
+    "main.js": "/hb-login-challenge/static/js/main.0c3d2e33.chunk.js",
+    "main.js.map": "/hb-login-challenge/static/js/main.0c3d2e33.chunk.js.map",
+    "runtime-main.js": "/hb-login-challenge/static/js/runtime-main.3a418675.js",
+    "runtime-main.js.map": "/hb-login-challenge/static/js/runtime-main.3a418675.js.map",
+    "static/js/2.4230e0a3.chunk.js": "/hb-login-challenge/static/js/2.4230e0a3.chunk.js",
+    "static/js/2.4230e0a3.chunk.js.map": "/hb-login-challenge/static/js/2.4230e0a3.chunk.js.map",
+    "index.html": "/hb-login-challenge/index.html",
+    "precache-manifest.cba8795122b4b28fc511dd4517a0de40.js": "/hb-login-challenge/precache-manifest.cba8795122b4b28fc511dd4517a0de40.js",
+    "service-worker.js": "/hb-login-challenge/service-worker.js",
+    "static/css/main.1b1e9882.chunk.css.map": "/hb-login-challenge/static/css/main.1b1e9882.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a418675.js",
+    "static/js/2.4230e0a3.chunk.js",
+    "static/css/main.1b1e9882.chunk.css",
+    "static/js/main.0c3d2e33.chunk.js"
+  ]
+}
