@@ -20,3 +20,52 @@
 .App-link {
   color: #09d3ac;
 }
+
+.card {
+  margin: 0;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button.btn.btn-danger[type=submit] {
+float: left;
+background-color: #FF6633;
+border-color: #FF6633;
+}
+
+input[type=text]{
+  margin-bottom: 10px;
+}
+
+.info-line {
+  margin-top: 15px;
+}
+
+.info-line p {
+  margin-bottom: 0;
+}
+
+.card-footer p {
+  display: inline;
+}
+.card-footer #help-links {
+  float:left;
+}
+
+.card-footer #copyright {
+  float: right;
+}
+
+.orange-text {
+  color:#FF6633;
+}
+
+.error-message {
+  margin: 0;
+  padding: 5px;
+  text-align: left;
+  color:#a94442;
+  font-weight: bold;
+  font-size: 13px;
+}
